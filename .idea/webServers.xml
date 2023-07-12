@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3ba42c51-5909-42f1-aaf6-13b16ad7c80f" name="tencent4">
+        <fileTransfer accessType="SFTP" host="42.193.17.123" port="22" sshConfigId="ed0a3c34-5299-4c24-99b4-3e5845710985" sshConfig="root@42.193.17.123:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
